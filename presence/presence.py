@@ -13,7 +13,7 @@ rpc = Presence(client_id=client_id)
 
 print("Авторизуемся. Дискорд должен быть запущен")
 print("Подробнее читайте на нашем сайте:")
-print("https://dmlomov.github.io/ruhelp/discord_auth/")
+print("https://dmlomov.github.io/ruhelp/presence/")
 print("===========================")
 
 try:
