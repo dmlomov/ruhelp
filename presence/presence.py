@@ -44,6 +44,7 @@ while True:
             state='Помогите РФ в трудное время, патриоты!',
             details='Все вместе мы справимся #МыВместеРоссия',
             start=war_start,
+            end=war_start,
             buttons=buttons,
             large_image='russian_flag',
             large_text='Вместе мы справимся #МыВместеРоссия'
